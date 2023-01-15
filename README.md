@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tj-likes-coding
-- 👀 I’m interested in coding, art and literature.
-- 🌱 I’m currently learning javascript advanced.
-- 💞️ I’m looking to collaborate on html projects.
+- 👀 I’m interested in programming, art and literature.
+- 🌱 I’m currently learning Desktop Development.
+- 💞️ Just another web-dev.
 - 📫 Wanna talk to me? Then contact me on my email - contacttejas@gmail.com.
 - Looking forward to working with you. 
 
