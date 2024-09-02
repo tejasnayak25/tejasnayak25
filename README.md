@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tj-likes-coding
+- 👋 Hi, I’m @tejasnayak25
 - 👀 I’m interested in programming, art and literature.
 - 🌱 I’m currently learning Desktop Development.
 - 💞️ Just another web-dev.
