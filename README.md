@@ -1,116 +1,202 @@
-# 👋 Hi, I'm Tejas Nayak
+# Hey, I'm Tejas Nayak
 
-I'm a **Full-Stack + AI Developer** with over 4 years of hands-on experience building intelligent, creative, and scalable web applications.  
-Since **2021**, I’ve been crafting products that merge **user creativity** with **AI-driven systems**, focusing on performance, design, and seamless user experience.
+### Full-Stack & AI Developer · Product Builder
 
-I’m deeply passionate about **web innovation**, **intuitive interfaces**, and **bridging technology with human creativity** — one line of code at a time.
+I build **AI-powered applications, production web platforms, mobile experiences, and interactive systems**.
 
----
+I've been building since 2021, with a particular interest in the intersection of **AI, software engineering, and creative interfaces** — taking ideas from prototypes to products that people can actually use.
 
-## 🧠 About Me
-- 💻 Fullstack + AI Developer (active since 2021)  
-- 🧩 4× Hackathon Winner | Self-taught engineer with strong creative instincts  
-- 🧠 I specialize in integrating **AI models** into interactive and web-based platforms  
-- 🔭 Currently building **AI-powered creative tools**, **real-time 3D systems**, and **intelligent assistants**  
-- ⚙️ Experienced in both **frontend performance** and **backend scalability**  
-- 🌎 I believe in making technology accessible, inspiring, and expressive  
+**4× Hackathon Winner · ₹5L NAIN 2.0 Funded Project**
+
+[Portfolio](https://tejasnayak25.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/tejas-nayak-3110a7220/) · [Kaggle](https://www.kaggle.com/tejasnayak25)
 
 ---
 
-## 🧰 Tech Stack
+## What I Build
 
-**Frontend:**  
-HTML • CSS • TailwindCSS • JavaScript • React.js • Next.js • Three.js • Anime.js  
+**AI Applications**
+> LLM-powered products, computer vision, machine learning, and intelligent automation.
 
-**Backend:**  
-Node.js • Express.js • Django • Flask • Firebase Admin SDK • REST APIs  
+**Full-Stack Systems**
+> Web and mobile applications, APIs, authentication, databases, and production backends.
 
-**Databases:**  
-Firebase Firestore • MongoDB • MySQL • SQL  
+**Interactive Experiences**
+> Three.js, WebGL, real-time communication, animation, and experimental interfaces.
 
-**Programming Languages:**  
-C • C++ • Python • Java • JavaScript  
-
-**AI & Tools:**  
-Hugging Face API • Gemini AI • Gradio • TensorFlow • PyTorch • MONAI  
-
-**Utilities:**  
-Git • Webpack • Vercel • Postman • GCP • Colab • Blender • Firebase Hosting  
+**Developer Tools & Experiments**
+> I enjoy turning unusual ideas into working software and exploring new ways technology can be used.
 
 ---
 
-## 🏆 Achievements
-- 🥇 1st Place — *Monaithon Hackathon* @ JNNCE, Shivamogga  
-- 🥇 1st Place — *Plasma 2K24 Hackathon* @ JNNCE, Shivamogga  
-- 🥇 1st Place — *Hack-a-thon* (College Techfest)  
-- 🥈 2nd Place — *Hacknight 2024* @ Sahyadri Engineering College  
-- 🥈 2nd Place — *Web Design Competition* (College Techfest)  
-- 🥈 2nd Place — *Hackhunt* (College Techfest)  
-- 🥈 2nd Place — *Tech Treasure Hunt* @ YUGMA TechFest 1.0  
+## Tech Stack
+
+**Languages**
+
+`TypeScript` `JavaScript` `Python` `Go` `Java` `C` `C++`
+
+**Frontend & Mobile**
+
+`React` `Next.js` `React Native` `Three.js` `TailwindCSS`
+
+**Backend**
+
+`Node.js` `Express` `Go` `Django` `Flask` `REST APIs`
+
+**AI / ML**
+
+`PyTorch` `MONAI` `TensorFlow` `Gemini API` `Hugging Face`
+
+**Databases & Infrastructure**
+
+`Firebase` `MongoDB` `SQL` `GCP` `Vercel`
+
+**Other**
+
+`WebRTC` `Socket.IO` `Puppeteer` `Git` `Postman` `Blender`
 
 ---
 
-## 💼 Experience
+## Selected Projects
 
-**Front-End Developer Intern — WAKUWAKU Studio (Mar 2025 – Apr 2025)**  
-- Selected via GitHub for a front-end internship at a creative startup.  
-- Worked on **comicstrick.art**, built with **Nuxt.js**, **Three.js**, and **TailwindCSS**.  
-- Improved UX, enhanced performance, and collaborated in an agile team.  
-- Recognized with an official certificate for exceptional delivery.
+### Varnothsava
 
----
+**Production-grade college fest platform**
 
-## 🚀 Featured Projects
+Built for 20+ events and 500+ participants, with event registration, administration, payments, and automated attendance.
 
-### 🔹 [Brain Tumor Segmentation](https://github.com/tejasnayak25/brain-tumor-segmentation)
-*Volumetric MRI Analysis with MONAI & PyTorch*  
-- Built a reproducible medical segmentation pipeline with MONAI and PyTorch.  
-- Implemented **UNet** and **VNet** architectures for tumor segmentation.  
+* Role-based access control
+* Razorpay payment integration
+* QR-based ticketing and attendance
+* Interactive interfaces with Three.js, GSAP, and Framer Motion
+* Firebase-backed application infrastructure
 
-### 🔹 [Sitescan](https://github.com/tejasnayak25/sitescan)
-*AI-Powered Web Auditing Tool*  
-- Full-stack web analysis platform built with **Next.js**, **Puppeteer**, and **Gemini AI**.  
-- Automated SEO, performance, and vulnerability testing.  
+`Next.js` `React` `TypeScript` `Firebase` `Three.js` `GSAP` `Razorpay`
 
-### 🔹 [Aula](https://github.com/tejasnayak25/aula)
-*Online Learning & Classroom Platform*  
-- Developed with **Next.js**, **Firebase**, and **Node.js**.  
-- Supports course creation, enrollment, and progress tracking.  
-
-### 🔹 [Manjari](https://github.com/tejasnayak25/manjari)
-*AI-Powered Language Learning Platform*  
-- Gamified language learning using **AI-generated quiz content**.  
-- Built with **React**, **TailwindCSS**, and **Firebase**.  
-
-### 🔹 [3Dmeet](https://github.com/tejasnayak25/3dmeet)
-*Real-Time 3D Video Conferencing Platform*  
-- Integrated **Three.js**, **WebRTC**, **Mediapipe**, and **Kalidokit** for 3D avatar meetings.  
-- Enabled real-time pose and facial tracking in a browser environment.  
+[Repository](https://github.com/tejasnayak25)
 
 ---
 
-## 🌍 My Vision
-> “I build intelligent systems that amplify creativity — tools that empower users to create, learn, and express effortlessly.”
+### Sitescan
+
+**AI-powered web auditing platform**
+
+A web analysis tool that scans websites for SEO, performance, accessibility, security, and Web Vitals issues, then generates AI-powered recommendations.
+
+`Next.js` `Node.js` `Puppeteer` `Gemini AI` `Vercel`
+
+[Repository](https://github.com/tejasnayak25/sitescan)
 
 ---
 
-## 📊 GitHub Stats
+### 3Dmeet
+
+**Real-time 3D meeting platform**
+
+A browser-based experiment combining video communication with shared 3D environments, avatars, pose tracking, and facial animation.
+
+`Three.js` `Socket.IO` `MediaPipe` `WebRTC` `Node.js`
+
+[Repository](https://github.com/tejasnayak25/3dmeet)
+
+---
+
+### Manjari
+
+**AI-powered language learning platform**
+
+A gamified language-learning application using Gemini to generate quizzes and learning content, with Firebase handling authentication and progress tracking.
+
+`React` `Firebase` `Gemini AI` `TailwindCSS`
+
+[Repository](https://github.com/tejasnayak25/manjari)
+
+---
+
+### Brain Tumor Segmentation
+
+**Volumetric MRI analysis with MONAI and PyTorch**
+
+A deep-learning pipeline for brain tumor segmentation, covering preprocessing, training, and evaluation workflows for medical imaging datasets.
+
+`Python` `PyTorch` `MONAI` `BraTS`
+
+[Repository](https://github.com/tejasnayak25/brain-tumor-segmentation)
+
+---
+
+## Experience
+
+### Software Developer Intern — Giddly
+
+**Dec 2025 – Present**
+
+Working on Android application development with React Native and backend services using Go.
+
+* Developing and maintaining mobile application features
+* Building and integrating backend APIs
+* Working with authentication and data synchronization
+* Contributing to testing, code reviews, and agile development
+
+
+### Front-End Developer Intern — WAKUWAKU Studio
+
+**Mar 2025 – Apr 2025**
+
+Worked on comicstrick.art using Nuxt.js, Three.js, and TailwindCSS, focusing on UI improvements, bug fixes, and performance optimization.
+
+---
+
+## Highlights
+
+* Secured **₹5 lakh NAIN 2.0 funding** for SoilSense, an agriculture-focused technology project.
+* Organized **Hackotsava and a Mini Hackathon** with 100+ participants.
+* Conducted **5+ technical workshops** attended by 150+ students.
+* Delivered sessions on Web Development, YOLO-based Object Detection, Full-Stack Engineering, Vibe Coding, and OCR.
+* **1st place** — Monaithon Hackathon, JNNCE
+* **1st place** — Plasma 2K24 Hackathon, JNNCE
+* **1st place** — College Techfest Hack-a-thon
+* **2nd place** — Hacknight 2024, Sahyadri Engineering College
+
+---
+
+## Currently
+
+Building and experimenting with **AI agents, creative tools, automation systems, and interactive web experiences**.
+
+I'm interested in software that doesn't just work, but feels intuitive and enjoyable to use.
+
+---
+
+## Education
+
+**B.E. Computer Science & Engineering**
+
+Shri Madhwa Vadiraja Institute of Technology and Management · 2023–2027
+
+**CGPA: 8.86 / 10.0**
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasnayak25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnayak25&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
-  <img src="https://streak-stats.demolab.com?user=tejasnayak25&theme=tokyonight&hide_border=true" width="70%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=tejasnayak25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnayak25&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=tejasnayak25&theme=tokyonight&hide_border=true" width="70%" />
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://tejasnayak25.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/tejas-nayak-3110a7220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/tejasnayak25" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.kaggle.com/tejasnayak25" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-</p>
+## Connect
+
+[Portfolio](https://tejasnayak25.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/tejas-nayak-3110a7220/) · [GitHub](https://github.com/tejasnayak25) · [Kaggle](https://www.kaggle.com/tejasnayak25)
 
 ---
 
-⭐ *"Building dreams through technology — empowering creativity since 2021."*
+> Building technology that makes ideas possible.
