@@ -8,7 +8,7 @@ I've been building since 2021, with a particular interest in the intersection of
 
 **4× Hackathon Winner · ₹5L NAIN 2.0 Funded Project**
 
-[Portfolio](https://tejasnayak25.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/tejas-nayak-3110a7220/) · [Kaggle](https://www.kaggle.com/tejasnayak25)
+[Portfolio](https://tejasnayak.me) · [LinkedIn](https://www.linkedin.com/in/tejas-nayak-3110a7220/) · [Kaggle](https://www.kaggle.com/tejasnayak25)
 
 ---
 
